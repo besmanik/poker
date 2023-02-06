@@ -1,8 +1,4 @@
-﻿# crypto-poker
- 
- Click here to view the [LIVE DEMO](https://troyshouse.poker/)
-
-Features
+﻿Features
 ---
 * Texas Holdem no limit game implementation
 * Casual Table Play
@@ -18,11 +14,6 @@ Features
  ![screenshot](https://i.imgur.com/aLDDolt.png "Screenshot")
  ![screenshot](https://i.imgur.com/3jfNjfQ.png "Admin 1")
  ![screenshot](https://i.imgur.com/jUEddky.png "Admin 2")
-
-
-Click here to view the [LIVE DEMO](https://troyshouse.poker/)
-
-
 
 
 Technical Setup Instructions
@@ -61,8 +52,3 @@ There are also ~300 unit tests for the engine.
 cd poker.engine
 npm test
 ```
-
-
-Credits:
-
-Thank you to [mdashx](https://github.com/mdashx) for [the inspiration](https://github.com/mdashx/pangea-poker-frontend) and the use of the background table images, cards and animation logic.
